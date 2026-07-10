@@ -15,19 +15,21 @@
 body {
   font-family: Avenir, sans-serif;
   font-size: 16px;
+  font-weight: 300;
 }
 
-.form {
-  position: relative;
+.form-bar {
   display: flex;
-  align-items: center;
+  justify-content: center;
   width: 100%;
   margin: 20px auto 0;
+  box-sizing: border-box;
 }
 
-.form::before {
+.form-bar .form::before {
   position: absolute;
   content: '';
+  display: block;
   background-image: url('./images/Search.svg');
   background-repeat: no-repeat;
   background-size: contain;
@@ -37,18 +39,18 @@ body {
   height: 70px;
 }
 
-.form--big::before {
+.form-bar .form--big::before {
   width: 19px;
   height: 19px;
   top: 25px;
   left: 26px;
 }
 
-.form--small {
+.form-bar .form--small {
   height: 42px;
 }
 
-.form--small::before {
+.form-bar .form--small::before {
   width: 11px;
   height: 11px;
   top: 15px;
@@ -72,13 +74,13 @@ body {
   box-shadow: 0 3px 8px rgba(61, 78, 97, 0.2);
 }
 
-.form--big .form__input {
+.form-bar .form--big .form__input {
   padding-left: 62px;
   font-size: 16px;
   line-height: 22px;
 }
 
-.form--small .form__input {
+.form-bar .form--small .form__input {
   padding-left: 33px;
   font-size: 14px;
   line-height: 19px;
@@ -89,23 +91,19 @@ body {
   font-weight: 300;
 }
 
-.form--big .form__input::placeholder {
+.form-bar .form--big .form__input::placeholder {
   font-size: 16px;
   line-height: 22px;
 }
 
-.form--small .form__input::placeholder {
+.form-bar .form--small .form__input::placeholder {
   font-size: 14px;
   line-height: 22px;
 }
 
-.form__input:focus {
+.form-bar__input:focus {
   background: linear-gradient(180deg, #fff 0%, #f6f6f7 100%);
   border-radius: 3px;
   font-weight: 600;
 }
 
-.form,
-.form__input {
-  box-sizing: border-box;
-}
