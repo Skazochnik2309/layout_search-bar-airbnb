@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Entire_document_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -22,7 +22,7 @@ report({
           },
           "rawMisMatchPercentage": 0.042724609375,
           "misMatchPercentage": "0.04",
-          "analysisTime": 7
+          "analysisTime": 9
         }
       },
       "status": "pass"
@@ -30,7 +30,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_720px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Entire_document_720px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -56,7 +56,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Big_search_bar_data-qa_big_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -82,7 +82,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_720px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Big_search_bar_data-qa_big_720px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -108,7 +108,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Small_search_bar_data-qa_small_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -126,7 +126,7 @@ report({
           },
           "rawMisMatchPercentage": 0.06613756613756613,
           "misMatchPercentage": "0.07",
-          "analysisTime": 5
+          "analysisTime": 4
         }
       },
       "status": "pass"
@@ -134,7 +134,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_720px.png",
-        "test": "..\\bitmaps_test\\20260710-164734\\Small_search_bar_data-qa_small_720px.png",
+        "test": "..\\bitmaps_test\\20260710-165306\\Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -152,7 +152,7 @@ report({
           },
           "rawMisMatchPercentage": 0.0946969696969697,
           "misMatchPercentage": "0.09",
-          "analysisTime": 5
+          "analysisTime": 9
         }
       },
       "status": "pass"

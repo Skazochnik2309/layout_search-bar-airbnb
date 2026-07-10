@@ -33,23 +33,23 @@ body {
   background-size: contain;
 }
 
-.big__form {
+.form--big {
   height: 70px;
   margin-bottom: 20px;
 }
 
-.big__form::before {
+.form--big::before {
   width: 19px;
   height: 19px;
   top: 25px;
   left: 26px;
 }
 
-.small__form {
+.form--small {
   height: 42px;
 }
 
-.small__form::before {
+.form--small::before {
   width: 11px;
   height: 11px;
   top: 15px;
@@ -73,13 +73,13 @@ body {
   box-shadow: 0 3px 8px rgba(61, 78, 97, 0.2);
 }
 
-.big__form .form__input {
+.form--big .form__input {
   padding-left: 62px;
   font-size: 16px;
   line-height: 22px;
 }
 
-.small__form .form__input {
+.form--small .form__input {
   padding-left: 33px;
   font-size: 14px;
   line-height: 19px;
@@ -90,12 +90,12 @@ body {
   font-weight: 300;
 }
 
-.big__form .form__input::placeholder {
+.form--big .form__input::placeholder {
   font-size: 16px;
   line-height: 22px;
 }
 
-.small__form .form__input::placeholder {
+.form--small .form__input::placeholder {
   font-size: 14px;
   line-height: 22px;
 }
