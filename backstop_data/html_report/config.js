@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Entire_document_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -20,8 +20,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.042724609375,
-          "misMatchPercentage": "0.04",
+          "rawMisMatchPercentage": 0.125732421875,
+          "misMatchPercentage": "0.13",
           "analysisTime": 8
         }
       },
@@ -30,7 +30,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_720px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Entire_document_720px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -46,8 +46,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.06076388888888889,
-          "misMatchPercentage": "0.06",
+          "rawMisMatchPercentage": 0.17881944444444445,
+          "misMatchPercentage": "0.18",
           "analysisTime": 7
         }
       },
@@ -56,7 +56,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Big_search_bar_data-qa_big_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -72,9 +72,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.05952380952380953,
-          "misMatchPercentage": "0.06",
-          "analysisTime": 6
+          "rawMisMatchPercentage": 0.20124716553287983,
+          "misMatchPercentage": "0.20",
+          "analysisTime": 7
         }
       },
       "status": "pass"
@@ -82,7 +82,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_720px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Big_search_bar_data-qa_big_720px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -98,8 +98,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.08522727272727272,
-          "misMatchPercentage": "0.09",
+          "rawMisMatchPercentage": 0.28814935064935066,
+          "misMatchPercentage": "0.29",
           "analysisTime": 5
         }
       },
@@ -108,7 +108,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Small_search_bar_data-qa_small_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -124,8 +124,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.06613756613756613,
-          "misMatchPercentage": "0.07",
+          "rawMisMatchPercentage": 0.15117157974300832,
+          "misMatchPercentage": "0.15",
           "analysisTime": 4
         }
       },
@@ -134,7 +134,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_720px.png",
-        "test": "..\\bitmaps_test\\20260710-171247\\Small_search_bar_data-qa_small_720px.png",
+        "test": "..\\bitmaps_test\\20260710-173445\\Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -150,8 +150,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.0946969696969697,
-          "misMatchPercentage": "0.09",
+          "rawMisMatchPercentage": 0.21645021645021645,
+          "misMatchPercentage": "0.22",
           "analysisTime": 4
         }
       },
