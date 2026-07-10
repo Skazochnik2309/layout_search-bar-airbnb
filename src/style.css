@@ -46,6 +46,7 @@ body * {
 
 .form__input--big {
   padding-left: 62px;
+  padding-right: 20px;
   background-size: 19px 19px;
   background-position: 26px center;
   font-size: 16px;
@@ -55,6 +56,7 @@ body * {
 
 .form__input--small {
   padding-left: 33px;
+  padding-right: 15px;
   background-size: 11px 11px;
   background-position: 13px center;
   font-size: 14px;
