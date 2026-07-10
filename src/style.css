@@ -96,7 +96,7 @@ body {
 
 .form--small .form__input::placeholder {
   font-size: 14px;
-  line-height: 19px;
+  line-height: 22px;
 }
 
 .form__input:focus {
@@ -109,3 +109,4 @@ body {
 .form__input {
   box-sizing: border-box;
 }
+
