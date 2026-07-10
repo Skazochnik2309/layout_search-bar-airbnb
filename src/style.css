@@ -34,14 +34,14 @@ body {
   height: 42px;
 }
 
-.form__icon {
+.form__input-wrapper {
   position: relative;
-  display: block;
+  display: flex;
   width: 100%;
   box-sizing: border-box;
 }
 
-.form__icon::before {
+.form__input-wrapper::before {
   position: absolute;
   content: '';
   display: block;

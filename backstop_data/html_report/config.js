@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Entire_document_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -22,7 +22,7 @@ report({
           },
           "rawMisMatchPercentage": 0.125732421875,
           "misMatchPercentage": "0.13",
-          "analysisTime": 8
+          "analysisTime": 9
         }
       },
       "status": "pass"
@@ -30,7 +30,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_720px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Entire_document_720px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Entire_document_720px.png",
         "selector": "document",
         "fileName": "Entire_document_720px.png",
         "label": "Entire document",
@@ -56,7 +56,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Big_search_bar_data-qa_big_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Big_search_bar_data-qa_big_1024px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_1024px.png",
         "label": "Big search bar data-qa_big",
@@ -74,7 +74,7 @@ report({
           },
           "rawMisMatchPercentage": 0.20124716553287983,
           "misMatchPercentage": "0.20",
-          "analysisTime": 7
+          "analysisTime": 6
         }
       },
       "status": "pass"
@@ -82,7 +82,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Big_search_bar_data-qa_big_720px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Big_search_bar_data-qa_big_720px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Big_search_bar_data-qa_big_720px.png",
         "selector": "[data-qa=\"big\"]",
         "fileName": "Big_search_bar_data-qa_big_720px.png",
         "label": "Big search bar data-qa_big",
@@ -100,7 +100,7 @@ report({
           },
           "rawMisMatchPercentage": 0.28814935064935066,
           "misMatchPercentage": "0.29",
-          "analysisTime": 5
+          "analysisTime": 4
         }
       },
       "status": "pass"
@@ -108,7 +108,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_1024px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Small_search_bar_data-qa_small_1024px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Small_search_bar_data-qa_small_1024px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_1024px.png",
         "label": "Small search bar data-qa_small",
@@ -126,7 +126,7 @@ report({
           },
           "rawMisMatchPercentage": 0.15117157974300832,
           "misMatchPercentage": "0.15",
-          "analysisTime": 4
+          "analysisTime": 3
         }
       },
       "status": "pass"
@@ -134,7 +134,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Small_search_bar_data-qa_small_720px.png",
-        "test": "..\\bitmaps_test\\20260710-173445\\Small_search_bar_data-qa_small_720px.png",
+        "test": "..\\bitmaps_test\\20260710-174601\\Small_search_bar_data-qa_small_720px.png",
         "selector": "[data-qa=\"small\"]",
         "fileName": "Small_search_bar_data-qa_small_720px.png",
         "label": "Small search bar data-qa_small",
@@ -152,7 +152,7 @@ report({
           },
           "rawMisMatchPercentage": 0.21645021645021645,
           "misMatchPercentage": "0.22",
-          "analysisTime": 4
+          "analysisTime": 3
         }
       },
       "status": "pass"
