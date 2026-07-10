@@ -8,14 +8,14 @@
   src: url(./fonts/Avenir-Heavy.ttf);
 }
 
-.page {
+body {
   box-sizing: border-box;
   font-family: Avenir, Arial, sans-serif;
   color: #3d4e61;
   font-weight: 300;
 }
 
-.page * {
+body * {
   box-sizing: inherit;
 }
 
