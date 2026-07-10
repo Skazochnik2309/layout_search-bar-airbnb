@@ -96,11 +96,16 @@ body {
 
 .form--small .form__input::placeholder {
   font-size: 14px;
-  line-height: 22px;
+  line-height: 19px;
 }
 
 .form__input:focus {
   background: linear-gradient(180deg, #fff 0%, #f6f6f7 100%);
   border-radius: 3px;
   font-weight: 600;
+}
+
+.form,
+.form__input {
+  box-sizing: border-box;
 }
